@@ -1,14 +1,18 @@
+![Write/Speak/Code](own-your-expertise/WSClogos_stacked_fullcolor_print.jpg)
+
 < Own Your Expertise / Workshop >
 ------------------
 
-[Schedule](schedule.md)
+Welcome San Franscisco 2017!
 
-## Break out sessions
+### Resources
 
-For the next 75 minutes we'll break up into 3 separate tracks, based on which area -- Writing, Speaking, or Coding -- interests you the most.
+* [Write](write.md)
+* [Speak](speak.md)
+* [Code](code.md)
 
-Plan by Breakout Session:
-* [Writing](writing.md)
-* [Speaking](speaking.md)
-* [Coding](coding.md)
+
+### Get your company to sponsor Write/Speak/Code!
+
+Check out [our 2017 prospectus](http://www.writespeakcode.com/images/WSC-SponsorshipProspectus-2017-draft2.pdf).
 
