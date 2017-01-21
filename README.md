@@ -11,6 +11,11 @@ Welcome San Franscisco 2017!
 * [Speak](./speak.md)
 * [Code](./code.md)
 
+### Go to the 2017 Conference!
+
+[Buy tickets here](https://ti.to/write-speak-code/2017-conference/)
+
+Details coming soon at [writespeakcode.com](http://www.writespeakcode.com/)
 
 ### Get your company to sponsor Write/Speak/Code!
 
