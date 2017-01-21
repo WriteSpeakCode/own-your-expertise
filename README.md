@@ -7,9 +7,9 @@ Welcome San Franscisco 2017!
 
 ### Resources
 
-* [Write](write.md)
-* [Speak](speak.md)
-* [Code](code.md)
+* [Write](./write.md)
+* [Speak](./speak.md)
+* [Code](./code.md)
 
 
 ### Get your company to sponsor Write/Speak/Code!
