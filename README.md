@@ -1,4 +1,4 @@
-![Write/Speak/Code](own-your-expertise/WSClogos_stacked_fullcolor_print.jpg)
+![Write/Speak/Code](WSClogos_stacked_fullcolor_print.jpg)
 
 < Own Your Expertise / Workshop >
 ------------------
