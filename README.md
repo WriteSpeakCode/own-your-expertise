@@ -5,6 +5,8 @@
 
 Welcome San Franscisco 2017!
 
+* [WSC Community Slack](http://wsccommunity.slack.com/)
+
 ### Resources
 
 * [Write](./write.md)
