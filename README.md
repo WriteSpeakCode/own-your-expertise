@@ -7,6 +7,9 @@ Welcome San Franscisco 2017!
 
 * [WSC Community Slack](http://wsccommunity.slack.com/)
 
+### Slides
+* [Own Your Expertise 2017 - SF - PDF](./2017/oye-sf-2017.pdf)
+
 ### Resources
 
 * [Write](./write.md)
@@ -22,6 +25,10 @@ Details coming soon at [writespeakcode.com](http://www.writespeakcode.com/)
 ### Get your company to sponsor Write/Speak/Code!
 
 Check out [our 2017 prospectus](http://www.writespeakcode.com/images/WSC-SponsorshipProspectus-2017-draft2.pdf).
+
+### Donate directly to Write/Speak/Code via Patreon
+
+Want to support our work, but don't know how to get involved? We take direct donations via our [Patreon account](https://www.patreon.com/writespeakcode).
 
 ### For Mentors
 
