@@ -8,7 +8,7 @@ Welcome San Franscisco 2017!
 * [WSC Community Slack](http://wsccommunity.slack.com/)
 
 ### Slides
-* [Own Your Expertise 2017 - SF - PDF](./2017/oye-sf-2017.pdf)
+* [Own Your Expertise 2017 - SF - PDF](./2017/oye-sf-17.pdf)
 
 ### Resources
 
