@@ -9,6 +9,7 @@ Welcome San Franscisco 2017!
 
 ### Slides
 * [Own Your Expertise 2017 - SF - PDF](./2017/oye-sf-17.pdf)
+* [Own Your Expertise 2017 - LA - PDF](./2017/oye-la-17.pdf)
 
 ### Resources
 
